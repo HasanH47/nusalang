@@ -1,0 +1,12 @@
+let greeting = "Selamat datang di "
+let language = 'NusaLang'
+print greeting + language
+
+func sayHello(name) {
+    print "Halo, " + name + "!"
+}
+
+sayHello("Budi")
+
+let age = 20
+print age
