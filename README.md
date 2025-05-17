@@ -45,4 +45,5 @@ Contributions are welcome! Silakan fork repo ini dan buat pull request untuk fit
 
 ## Lisensi
 
-Project ini menggunakan lisensi GPLv3. Silakan lihat file `LICENSE` untuk informasi lebih lanjut.
+GNU General Public License v3.0 (GPLv3).
+Silakan lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
